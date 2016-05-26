@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\bin\Debug\Console my animal portfolio.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\bin\Debug\Console my animal portfolio.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\bin\Debug\Console my animal portfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\obj\Debug\Console my animal portfolio.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\obj\Debug\Console my animal portfolio.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Console my animal portfolio\Console my animal portfolio\obj\Debug\Console my animal portfolio.csprojResolveAssemblyReference.cache
